@@ -46,6 +46,10 @@ main {
     text-decoration: none;
 }
 
+.tabs__link:hover {
+    cursor: pointer;
+}
+
 .tabs__link.active {
     color: #185ee0;
 }
